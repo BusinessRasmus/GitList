@@ -1,1 +1,4 @@
 # GitList
+
+|Kommando|Beskrivning|
+|-|-|
